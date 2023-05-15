@@ -1,2 +1,2 @@
-new file3 created.
-append to file.txt locally
+Hello World
+Edit text in git bash with nano command

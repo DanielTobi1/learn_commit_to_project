@@ -1,2 +1,0 @@
-Hello World
-Edit text in git bash with nano command
